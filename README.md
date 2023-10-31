@@ -1,4 +1,3 @@
-
 <!--end: description-->
 
 [![Uptime CI](https://github.com/CodeIntel-Development/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/CodeIntel-Development/uptime/actions?query=workflow%3A%22Uptime+CI%22)
