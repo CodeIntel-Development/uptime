@@ -9,6 +9,9 @@ sites:
     url: https://jerseymortgage.com
   - name: The Mortgage Firm
     url: https://themortgagefirm.com
+  - name: TMFFMS
+    url: https://tmffms.com
+    
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
