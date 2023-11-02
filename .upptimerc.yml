@@ -105,9 +105,72 @@ sites:
     url: https://summitfundingcoaching.com
   - name: Oasis Mortgage
     url: https://www.oasismortgagellc.com
+  - name: Orlando Integrity
+    url: https://orlandointegritymortgage.com
+  - name: PHL Correspondent
+    url: https://phlcorrespondent.com
+  - name: PHL EB
+    url: https://planethomelendingeb.com
+  - name: Planet Financial Group
+    url: https://planetfinancialgroup.com
+  - name: Planet Home Lending
+    url: https://planethomelending.com
+  - name: Planet Management Group
+    url: https://planetmanagementgroup.com
+  - name: Planet Renovation Capital
+    url: https://planetrenovationcapital.com
+  - name: PRRE
+    url: https://thepuertoricorealestate.com
+  - name: Responsive LO
+    url: https://responsivelo.com
+  - name: Rob J Benson
+    url: https://www.robjbenson.com
+  - name: Rob O'Malley
+    url: https://yourhomeloanexperts.net
+  - name: RTD Law
+    url: https://www.rtdlawpa.com
+  - name: Sue Hogrefe
+    url: https://suehogrefe.com
+  - name: Summit Funding Arizona
+    url: https://summitfundingarizona.com
+  - name: Summit Funding Chico
+    url: https://summitfundingchico.com
+  - name: Summit Funding Corporate (no blog)
+    url: https://summitfunding.net
+  - name: Summit Funding Sacramento
+    url: https://summitfunding.net/sacramento
+  - name: Summit Funding San Diego
+    url: https://summitfunding.net/san-diego
+  - name: Summit Funding Spokane
+    url: https://summitfunding.net/spokane
+  - name: Summit Funding Washington
+    url: https://summitfunding.net/washington
+  - name: Team Home Loans for Heroes
+    url: https://teamhomeloansforheroes.com
+  - name: Team Molina
+    url: https://teammolina.net
+  - name: The Heisler Team
+    url: https://t5i.ae1.myftpupload.com
+  - name: The J Bowen Team
+    url: https://thejbowenteam.com
+  - name: The Mortgage Firm
+    url: https://themortgagefirm.com
+  - name: The Mortgage Firm Pros
+    url: https://www.mortgagefirmpros.com
+  - name: The Perfect Mortgage Solution
+    url: https://www.theperfectmortgagesolution.com
+  - name: The Polder Group
+    url: https://thepoldergroup.com
+  - name: The TMF Team
+    url: https://www.tmfmortgage.com
+  - name: Throw it in reverse
+    url: https://throwitinreverse.com
+  - name: Trease Group
+    url: https://www.treasegroup.com
+  - name: Yankov Team
+    url: https://yankovmortgageteam.com
   - name: Test Website
     url: https://codeintel.demo129.xyz
-   
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
