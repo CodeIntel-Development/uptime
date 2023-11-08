@@ -9,102 +9,52 @@ sites:
     url: https://financewithangievance.com
   - name: Be Your Best
     url: https://beyourbestseries.com
-  - name: Butler Mortgage
-    url: https://www.butlermortgage.com
   - name: Buy Pr
     url: https://thepuertoricorealestate.com
-  - name: Choose Corner Stone
-    url: https://www.choosecornerstone.com
   - name: Click My Open House
     url: http://www.clickmyopenhouse.com
-  - name: Close My Loan Trinity
-    url: https://www.closemyloantrinity.com
   - name: Close My Mortgage Tampa
     url: https://www.closemymortgagetampa.com
-  - name: Costpro
-    url: https://www.costprolending.com
   - name: Crest AMC
     url: https://crestamc.com
-  - name: David Posnack Jewish Community Center
-    url: https://www.dpjcc.org
   - name: Diamond Residential Mortgage Corporation
     url: https://diamondresidential.com
-  - name: Dylan Davis
-    url: https://dylandavis.org
-  - name: Easy Mortgage Answers
-    url: https://easymortgageanswers.com
-  - name: Evergreen Cashup
-    url: https://evergreencashup.com
-  - name: Evergreen Home Loans
-    url: https://www.evergreenhomeloans.com
   - name: Family Mortgage
     url: https://familymortgage.com
-  - name: FamilyTime
-    url: https://www.familytime.com
   - name: Financing Florida 4U
     url: https://financingflorida4u.com
   - name: Fleet Heating & Air
     url: http://www.fleetheatingandair.com
-  - name: Gasaway Group
-    url: https://www.thegasawaygroup.com
   - name: Ginty Mortgage
     url: https://gintymortgage.com
-  - name: Gomez Team
-    url: https://gomez-team.com
-  - name: Grand Theft Auto V
-    url: https://gta5.rockstargames.com
   - name: Gregory Polk
     url: https://gpolkmortgages.com
   - name: Gum Tree Mortgage
     url: https://gumtreemortgage.com
   - name: Health Trends Consulting
     url: https://healthtrends.consulting
-  - name: Home Loan Keys
-    url: https://homeloankeys.com
   - name: Inveniqa
     url: https://inveniqa.com
-  - name: Indra Yoga Institute
-    url: https://indrayogainstitute.com
   - name: InterLinc Mortgage
     url: https://interlincmortgage.com
   - name: JMC Dream Loan
     url: https://jmcdreamloan.com
-  - name: Joe Farro
-    url: https://www.joefarro.com
   - name: Join TMF
     url: https://jointmf.com
   - name: JoinDRMC
     url: https://joindrmc.com
   - name: Jonathan Easley
     url: https://jonathaneasleycl.com
-  - name: Karad Home Loans
-    url: https://www.karadhomeloans.com
-  - name: Kevin Dame
-    url: https://lenderlogix.com/mycard/kevin.dame@tmf.mortgage
-  - name: Kevin Haynes HomeHQ
-    url: https://kevinhaynes.myhomehq.biz
-  - name: Lakeway Lending
-    url: https://lakewaylending.com
   - name: Laura Meyers
     url: https://www.laurameyers.net
-  - name: Marc Moser MyHomeHq
-    url: https://marcmoser.myhomehq.biz
-  - name: Marc Thompson
-    url: https://www.mortgageindavis.com
-  - name: Marty Patterson Mortgage Team
-    url: https://martypattersonmortgageteam.com
   - name: Mortgage Professionals
     url: https://mtgprofessionals.com
   - name: Mortgages Tampa Bay
     url: https://www.mortgagestampabay.com
   - name: Move Facts
     url: https://movefacts.com
-  - name: New Frontier Financial
-    url: https://newfrontierfinancialinc.com
   - name: Next Level Coaching
     url: https://summitfundingcoaching.com
-  - name: Oasis Mortgage
-    url: https://www.oasismortgagellc.com
   - name: Orlando Integrity
     url: https://orlandointegritymortgage.com
   - name: PHL Correspondent
@@ -121,36 +71,16 @@ sites:
     url: https://planetrenovationcapital.com
   - name: PRRE
     url: https://thepuertoricorealestate.com
-  - name: Responsive LO
-    url: https://responsivelo.com
-  - name: Rob J Benson
-    url: https://www.robjbenson.com
   - name: Rob O'Malley
     url: https://yourhomeloanexperts.net
-  - name: RTD Law
-    url: https://www.rtdlawpa.com
   - name: Sue Hogrefe
     url: https://suehogrefe.com
-  - name: Summit Funding Arizona
-    url: https://summitfundingarizona.com
-  - name: Summit Funding Chico
-    url: https://summitfundingchico.com
   - name: Summit Funding Corporate (no blog)
     url: https://summitfunding.net
-  - name: Summit Funding Sacramento
-    url: https://summitfunding.net/sacramento
-  - name: Summit Funding San Diego
-    url: https://summitfunding.net/san-diego
-  - name: Summit Funding Spokane
-    url: https://summitfunding.net/spokane
-  - name: Summit Funding Washington
-    url: https://summitfunding.net/washington
   - name: Team Home Loans for Heroes
     url: https://teamhomeloansforheroes.com
   - name: Team Molina
     url: https://teammolina.net
-  - name: The Heisler Team
-    url: https://t5i.ae1.myftpupload.com
   - name: The J Bowen Team
     url: https://thejbowenteam.com
   - name: The Mortgage Firm
@@ -163,17 +93,13 @@ sites:
     url: https://thepoldergroup.com
   - name: The TMF Team
     url: https://www.tmfmortgage.com
-  - name: Throw it in reverse
-    url: https://throwitinreverse.com
   - name: Trease Group
     url: https://www.treasegroup.com
   - name: Yankov Team
     url: https://yankovmortgageteam.com
-  - name: Test Website
-    url: https://codeintel.demo129.xyz
   
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Add your custom domain name, or remove the `name` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
@@ -186,6 +112,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: light
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration .
