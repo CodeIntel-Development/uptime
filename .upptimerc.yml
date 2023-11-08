@@ -97,8 +97,6 @@ sites:
     url: https://www.treasegroup.com
   - name: Yankov Team
     url: https://yankovmortgageteam.com
-  - name: test
-    url: https://codeintel.demo129.xyz
   
 status-website:
   # Add your custom domain name, or remove the `name` line if you don't have a domain
