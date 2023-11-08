@@ -850,17 +850,19 @@
     "url": "https://codeintel.demo129.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/codeintel.demo129.xyz.ico",
     "slug": "test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1190,
-    "timeDay": 1190,
-    "timeWeek": 1190,
-    "timeMonth": 1190,
-    "timeYear": 1190,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "96.29%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "96.29%",
+    "time": 1294,
+    "timeDay": 1294,
+    "timeWeek": 1294,
+    "timeMonth": 1294,
+    "timeYear": 1294,
+    "dailyMinutesDown": {
+      "2023-11-08": 0
+    }
   }
 ]
