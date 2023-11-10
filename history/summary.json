@@ -292,19 +292,19 @@
     "url": "https://interlincmortgage.com",
     "icon": "https://icons.duckduckgo.com/ip3/interlincmortgage.com.ico",
     "slug": "inter-linc-mortgage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1830,
-    "timeDay": 10240,
-    "timeWeek": 2113,
-    "timeMonth": 1830,
-    "timeYear": 1830,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1768,
+    "timeDay": 7086,
+    "timeWeek": 2018,
+    "timeMonth": 1768,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2023-11-10": 1
+      "2023-11-10": 7
     }
   },
   {
