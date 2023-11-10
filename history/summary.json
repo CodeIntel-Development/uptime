@@ -852,19 +852,19 @@
     "url": "https://enam.demo129.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/enam.demo129.xyz.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "94.62%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "94.62%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "94.62%",
-    "time": 1314,
-    "timeDay": 1335,
-    "timeWeek": 1314,
-    "timeMonth": 1314,
-    "timeYear": 1314,
+    "status": "up",
+    "uptime": "17.05%",
+    "uptimeDay": "17.05%",
+    "uptimeWeek": "17.05%",
+    "uptimeMonth": "17.05%",
+    "uptimeYear": "17.05%",
+    "time": 1372,
+    "timeDay": 1423,
+    "timeWeek": 1372,
+    "timeMonth": 1372,
+    "timeYear": 1372,
     "dailyMinutesDown": {
-      "2023-11-10": 0
+      "2023-11-10": 24
     }
   }
 ]
