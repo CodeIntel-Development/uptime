@@ -744,9 +744,9 @@
     "url": "https://www.mortgagefirmpros.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mortgagefirmpros.com.ico",
     "slug": "the-mortgage-firm-pros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -755,7 +755,9 @@
     "timeWeek": 655,
     "timeMonth": 973,
     "timeYear": 973,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "The Perfect Mortgage Solution",
@@ -853,11 +855,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enam.demo129.xyz.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1287,
     "timeDay": 1105,
     "timeWeek": 1285,
