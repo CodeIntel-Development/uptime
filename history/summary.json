@@ -126,19 +126,19 @@
     "url": "https://crestamc.com",
     "icon": "https://icons.duckduckgo.com/ip3/crestamc.com.ico",
     "slug": "crest-amc",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 244,
     "timeDay": 228,
     "timeWeek": 254,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-12-05": 12
+      "2023-12-05": 13
     }
   },
   {
@@ -146,28 +146,30 @@
     "url": "https://diamondresidential.com",
     "icon": "https://icons.duckduckgo.com/ip3/diamondresidential.com.ico",
     "slug": "diamond-residential-mortgage-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 555,
-    "timeWeek": 686,
-    "timeMonth": 654,
-    "timeYear": 655,
-    "dailyMinutesDown": {}
+    "time": 644,
+    "timeDay": 360,
+    "timeWeek": 621,
+    "timeMonth": 641,
+    "timeYear": 644,
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Family Mortgage",
     "url": "https://familymortgage.com",
     "icon": "https://icons.duckduckgo.com/ip3/familymortgage.com.ico",
     "slug": "family-mortgage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -175,7 +177,9 @@
     "timeWeek": 218,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Financing Florida 4U",
@@ -231,7 +235,7 @@
     "time": 273,
     "timeDay": 226,
     "timeWeek": 289,
-    "timeMonth": 275,
+    "timeMonth": 272,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -267,7 +271,7 @@
     "time": 355,
     "timeDay": 242,
     "timeWeek": 367,
-    "timeMonth": 357,
+    "timeMonth": 353,
     "timeYear": 355,
     "dailyMinutesDown": {}
   },
@@ -285,7 +289,7 @@
     "time": 1589,
     "timeDay": 1575,
     "timeWeek": 1996,
-    "timeMonth": 1622,
+    "timeMonth": 1647,
     "timeYear": 1589,
     "dailyMinutesDown": {}
   },
@@ -627,7 +631,7 @@
     "time": 2713,
     "timeDay": 3385,
     "timeWeek": 2810,
-    "timeMonth": 2700,
+    "timeMonth": 2698,
     "timeYear": 2713,
     "dailyMinutesDown": {}
   },
@@ -645,7 +649,7 @@
     "time": 278,
     "timeDay": 156,
     "timeWeek": 267,
-    "timeMonth": 278,
+    "timeMonth": 281,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2023-12-05": 4
@@ -665,7 +669,7 @@
     "time": 345,
     "timeDay": 240,
     "timeWeek": 382,
-    "timeMonth": 347,
+    "timeMonth": 349,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2023-12-05": 4
@@ -685,7 +689,7 @@
     "time": 424,
     "timeDay": 250,
     "timeWeek": 353,
-    "timeMonth": 434,
+    "timeMonth": 440,
     "timeYear": 424,
     "dailyMinutesDown": {}
   },
@@ -703,7 +707,7 @@
     "time": 387,
     "timeDay": 297,
     "timeWeek": 394,
-    "timeMonth": 388,
+    "timeMonth": 391,
     "timeYear": 387,
     "dailyMinutesDown": {}
   },
@@ -739,7 +743,7 @@
     "time": 359,
     "timeDay": 223,
     "timeWeek": 289,
-    "timeMonth": 370,
+    "timeMonth": 373,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -757,7 +761,7 @@
     "time": 316,
     "timeDay": 229,
     "timeWeek": 323,
-    "timeMonth": 319,
+    "timeMonth": 321,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -775,7 +779,7 @@
     "time": 189,
     "timeDay": 337,
     "timeWeek": 365,
-    "timeMonth": 199,
+    "timeMonth": 201,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -793,7 +797,7 @@
     "time": 1056,
     "timeDay": 484,
     "timeWeek": 1982,
-    "timeMonth": 1084,
+    "timeMonth": 1093,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2023-12-01": 68,
@@ -822,7 +826,7 @@
     "time": 347,
     "timeDay": 246,
     "timeWeek": 386,
-    "timeMonth": 346,
+    "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -840,7 +844,7 @@
     "time": 589,
     "timeDay": 456,
     "timeWeek": 596,
-    "timeMonth": 588,
+    "timeMonth": 593,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
@@ -876,7 +880,7 @@
     "time": 289,
     "timeDay": 149,
     "timeWeek": 294,
-    "timeMonth": 287,
+    "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {}
   },
@@ -894,7 +898,7 @@
     "time": 279,
     "timeDay": 188,
     "timeWeek": 289,
-    "timeMonth": 280,
+    "timeMonth": 281,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
