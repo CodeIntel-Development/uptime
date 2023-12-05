@@ -636,27 +636,29 @@
     "url": "https://thepuertoricorealestate.com",
     "icon": "https://icons.duckduckgo.com/ip3/thepuertoricorealestate.com.ico",
     "slug": "prre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 282,
-    "timeWeek": 287,
-    "timeMonth": 285,
-    "timeYear": 284,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 163,
+    "timeWeek": 256,
+    "timeMonth": 279,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Rob O'Malley",
     "url": "https://yourhomeloanexperts.net",
     "icon": "https://icons.duckduckgo.com/ip3/yourhomeloanexperts.net.ico",
     "slug": "rob-o-malley",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -665,7 +667,9 @@
     "timeWeek": 379,
     "timeMonth": 350,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Sue Hogrefe",
