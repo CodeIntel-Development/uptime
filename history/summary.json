@@ -126,19 +126,19 @@
     "url": "https://crestamc.com",
     "icon": "https://icons.duckduckgo.com/ip3/crestamc.com.ico",
     "slug": "crest-amc",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 244,
-    "timeDay": 228,
+    "timeDay": 234,
     "timeWeek": 254,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-12-05": 13
+      "2023-12-05": 18
     }
   },
   {
@@ -146,19 +146,19 @@
     "url": "https://diamondresidential.com",
     "icon": "https://icons.duckduckgo.com/ip3/diamondresidential.com.ico",
     "slug": "diamond-residential-mortgage-corporation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 360,
-    "timeWeek": 621,
-    "timeMonth": 641,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 642,
+    "timeDay": 423,
+    "timeWeek": 613,
+    "timeMonth": 638,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 6
     }
   },
   {
@@ -166,19 +166,19 @@
     "url": "https://familymortgage.com",
     "icon": "https://icons.duckduckgo.com/ip3/familymortgage.com.ico",
     "slug": "family-mortgage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 205,
-    "timeDay": 137,
-    "timeWeek": 218,
+    "timeDay": 169,
+    "timeWeek": 216,
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 6
     }
   },
   {
