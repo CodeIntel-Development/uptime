@@ -517,19 +517,19 @@
     "url": "https://orlandointegritymortgage.com",
     "icon": "https://icons.duckduckgo.com/ip3/orlandointegritymortgage.com.ico",
     "slug": "orlando-integrity",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 178,
-    "timeWeek": 182,
-    "timeMonth": 212,
-    "timeYear": 233,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 232,
+    "timeDay": 159,
+    "timeWeek": 177,
+    "timeMonth": 210,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 7
     }
   },
   {
@@ -923,7 +923,7 @@
     "timeMonth": 203,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-01-14": 1155,
+      "2024-01-14": 1162,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
