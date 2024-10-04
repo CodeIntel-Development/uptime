@@ -37,8 +37,8 @@ sites:
     url: https://inveniqa.com
   - name: InterLinc Mortgage
     url: https://interlincmortgage.com
-  - name: JMC Dream Loan
-    url: https://jmcdreamloan.com
+#  - name: JMC Dream Loan
+#    url: https://jmcdreamloan.com
   - name: Join TMF
     url: https://jointmf.com
   - name: JoinDRMC
