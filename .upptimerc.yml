@@ -23,8 +23,8 @@ sites:
     url: https://familymortgage.com
   - name: Financing Florida 4U
     url: https://financingflorida4u.com
-  - name: Fleet Heating & Air
-    url: http://www.fleetheatingandair.com
+#  - name: Fleet Heating & Air
+#    url: http://www.fleetheatingandair.com
   - name: Ginty Mortgage
     url: https://gintymortgage.com
   - name: Gregory Polk
@@ -95,8 +95,6 @@ sites:
     url: https://www.treasegroup.com
   - name: Yankov Team
     url: https://yankovmortgageteam.com
-  - name: Test
-    url:  https://enam.demo129.xyz
   
 status-website:
   # Add your custom domain name, or remove the `name` line if you don't have a domain
