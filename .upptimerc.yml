@@ -59,8 +59,8 @@ sites:
     url: https://orlandointegritymortgage.com
   - name: PHL Correspondent
     url: https://phlcorrespondent.com
-  - name: PHL EB
-    url: https://planethomelendingeb.com
+  # - name: PHL EB
+  #   url: https://planethomelendingeb.com
   - name: Planet Financial Group
     url: https://planetfinancialgroup.com
   - name: Planet Home Lending
