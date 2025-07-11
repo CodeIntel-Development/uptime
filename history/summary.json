@@ -193,7 +193,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.59%",
     "time": 164,
     "timeDay": 197,
     "timeWeek": 169,
@@ -201,8 +201,7 @@
     "timeYear": 163,
     "dailyMinutesDown": {
       "2024-08-25": 38,
-      "2024-07-12": 769,
-      "2024-07-11": 1440
+      "2024-07-12": 769
     }
   },
   {
@@ -366,18 +365,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jointmf.com.ico",
     "slug": "join-tmf",
     "status": "down",
-    "uptime": "48.28%",
+    "uptime": "48.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.67%",
+    "uptimeYear": "12.64%",
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-07-10": 1424,
+      "2025-07-11": 116,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -883,7 +883,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.60%",
     "time": 174,
     "timeDay": 255,
     "timeWeek": 179,
@@ -891,8 +891,7 @@
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-08-25": 30,
-      "2024-07-12": 770,
-      "2024-07-11": 1440
+      "2024-07-12": 770
     }
   },
   {
@@ -928,7 +927,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.60%",
     "time": 212,
     "timeDay": 302,
     "timeWeek": 190,
@@ -936,8 +935,7 @@
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-08-25": 28,
-      "2024-07-12": 770,
-      "2024-07-11": 1440
+      "2024-07-12": 770
     }
   },
   {
@@ -1313,7 +1311,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.60%",
     "time": 257,
     "timeDay": 368,
     "timeWeek": 256,
@@ -1321,8 +1319,7 @@
     "timeYear": 257,
     "dailyMinutesDown": {
       "2024-08-25": 21,
-      "2024-07-12": 771,
-      "2024-07-11": 1440
+      "2024-07-12": 771
     }
   },
   {
@@ -1331,18 +1328,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yankovmortgageteam.com.ico",
     "slug": "yankov-team",
     "status": "down",
-    "uptime": "38.56%",
+    "uptime": "38.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.86%",
+    "uptimeYear": "8.83%",
     "time": 338,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-07-10": 1425,
+      "2025-07-11": 117,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
