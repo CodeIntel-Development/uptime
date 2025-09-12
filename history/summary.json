@@ -91,19 +91,19 @@
     "url": "http://www.clickmyopenhouse.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clickmyopenhouse.com.ico",
     "slug": "click-my-open-house",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 234,
-    "timeWeek": 259,
-    "timeMonth": 314,
+    "timeDay": 298,
+    "timeWeek": 278,
+    "timeMonth": 318,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-09-12": 1
+      "2025-09-12": 8
     }
   },
   {
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-12": 1288,
+      "2025-09-12": 1296,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -1327,7 +1327,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-12": 1289,
+      "2025-09-12": 1297,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
