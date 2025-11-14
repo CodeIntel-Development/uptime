@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 1041,
+      "2025-11-14": 1072,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -896,10 +896,10 @@
     "url": "https://summitfundingcoaching.com",
     "icon": "https://icons.duckduckgo.com/ip3/summitfundingcoaching.com.ico",
     "slug": "next-level-coaching",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 488,
@@ -908,7 +908,7 @@
     "timeMonth": 637,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-11-14": 7,
+      "2025-11-14": 8,
       "2025-11-13": 25,
       "2025-07-10": 30
     }
@@ -1359,7 +1359,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 1042,
+      "2025-11-14": 1073,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
