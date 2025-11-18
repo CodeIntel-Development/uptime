@@ -72,19 +72,19 @@
     "url": "https://thepuertoricorealestate.com",
     "icon": "https://icons.duckduckgo.com/ip3/thepuertoricorealestate.com.ico",
     "slug": "buy-pr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.33%",
+    "uptimeDay": "99.29%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 519,
-    "timeDay": 401,
-    "timeWeek": 497,
-    "timeMonth": 598,
-    "timeYear": 601,
+    "uptimeYear": "99.97%",
+    "time": 518,
+    "timeDay": 330,
+    "timeWeek": 459,
+    "timeMonth": 583,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-11-18": 10,
+      "2025-11-18": 11,
       "2025-09-30": 16,
       "2025-09-27": 14,
       "2024-11-22": 91
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 704,
+      "2025-11-18": 710,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -717,10 +717,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/joindrmc.com.ico",
     "slug": "join-drmc",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 442,
     "timeDay": 231,
@@ -728,7 +728,7 @@
     "timeMonth": 421,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 8
     }
   },
   {
@@ -1369,7 +1369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 705,
+      "2025-11-18": 711,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
