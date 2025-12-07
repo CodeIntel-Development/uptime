@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-07": 813,
+      "2025-12-07": 852,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
@@ -1164,19 +1164,19 @@
     "url": "https://teammolina.net",
     "icon": "https://icons.duckduckgo.com/ip3/teammolina.net.ico",
     "slug": "team-molina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "95.92%",
+    "uptimeDay": "93.61%",
+    "uptimeWeek": "95.91%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "99.75%",
     "time": 703,
-    "timeDay": 803,
-    "timeWeek": 785,
-    "timeMonth": 817,
+    "timeDay": 779,
+    "timeWeek": 779,
+    "timeMonth": 815,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2025-12-07": 66,
+      "2025-12-07": 67,
       "2025-12-06": 31,
       "2025-12-05": 21,
       "2025-12-04": 59,
@@ -1228,8 +1228,7 @@
       "2025-07-27": 16,
       "2025-07-20": 9,
       "2025-07-19": 14,
-      "2025-07-05": 21,
-      "2025-06-30": 12
+      "2025-07-05": 21
     }
   },
   {
@@ -1383,7 +1382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-07": 814,
+      "2025-12-07": 853,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
