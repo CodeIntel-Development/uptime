@@ -356,7 +356,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 1437,
+      "2025-12-24": 69,
+      "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -719,8 +720,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 1440
+      "2024-12-25": 1440
     }
   },
   {
@@ -910,18 +910,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/summitfundingcoaching.com.ico",
     "slug": "next-level-coaching",
     "status": "down",
-    "uptime": "98.22%",
+    "uptime": "98.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.84%",
-    "uptimeYear": "96.22%",
+    "uptimeMonth": "54.68%",
+    "uptimeYear": "96.20%",
     "time": 476,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 356,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-12-23": 1438,
+      "2025-12-24": 70,
+      "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1198,19 +1199,20 @@
     "url": "https://teammolina.net",
     "icon": "https://icons.duckduckgo.com/ip3/teammolina.net.ico",
     "slug": "team-molina",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "95.43%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.74%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "99.72%",
     "time": 708,
-    "timeDay": 763,
-    "timeWeek": 783,
-    "timeMonth": 808,
-    "timeYear": 780,
+    "timeDay": 823,
+    "timeWeek": 797,
+    "timeMonth": 812,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-12-23": 67,
+      "2025-12-24": 69,
+      "2025-12-23": 68,
       "2025-12-22": 20,
       "2025-12-21": 55,
       "2025-12-20": 34,
@@ -1405,7 +1407,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 1439,
+      "2025-12-24": 70,
+      "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1768,8 +1771,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 1440
+      "2024-12-25": 1440
     }
   }
 ]
