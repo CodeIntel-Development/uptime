@@ -351,7 +351,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jointmf.com.ico",
     "slug": "join-tmf",
     "status": "down",
-    "uptime": "37.65%",
+    "uptime": "37.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -362,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-31": 1403,
+      "2026-01-01": 127,
+      "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -725,8 +726,7 @@
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
-      "2025-01-02": 1440,
-      "2025-01-01": 1440
+      "2025-01-02": 1440
     }
   },
   {
@@ -916,18 +916,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/summitfundingcoaching.com.ico",
     "slug": "next-level-coaching",
     "status": "down",
-    "uptime": "97.23%",
+    "uptime": "97.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.72%",
-    "uptimeYear": "94.03%",
+    "uptimeMonth": "28.34%",
+    "uptimeYear": "94.00%",
     "time": 474,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 330,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-12-31": 1404,
+      "2026-01-01": 127,
+      "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -1215,12 +1216,12 @@
     "slug": "team-molina",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "98.77%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "99.73%",
     "time": 718,
-    "timeDay": 767,
+    "timeDay": 782,
     "timeWeek": 838,
     "timeMonth": 824,
     "timeYear": 787,
@@ -1409,7 +1410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yankovmortgageteam.com.ico",
     "slug": "yankov-team",
     "status": "down",
-    "uptime": "30.07%",
+    "uptime": "30.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1420,7 +1421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-31": 1405,
+      "2026-01-01": 127,
+      "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -1783,8 +1785,7 @@
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
-      "2025-01-02": 1440,
-      "2025-01-01": 1440
+      "2025-01-02": 1440
     }
   }
 ]
