@@ -3,8 +3,6 @@ owner: CodeIntel-Development # Your GitHub organization or username, where this 
 repo: uptime # The name of this repository
 
 sites:
-  - name: All Star Taxi
-    url: https://taxitahoe.com
   - name: Angie Vance
     url: https://financewithangievance.com
   - name: Be Your Best
@@ -23,8 +21,6 @@ sites:
     url: https://familymortgage.com
   - name: Financing Florida 4U
     url: https://financingflorida4u.com
-#  - name: Fleet Heating & Air
-#    url: http://www.fleetheatingandair.com
   - name: Ginty Mortgage
     url: https://gintymortgage.com
   - name: Gregory Polk
@@ -37,8 +33,6 @@ sites:
     url: https://inveniqa.com
   - name: InterLinc Mortgage
     url: https://interlincmortgage.com
-#  - name: JMC Dream Loan
-#    url: https://jmcdreamloan.com
   - name: Join TMF
     url: https://jointmf.com
   - name: JoinDRMC
@@ -53,8 +47,6 @@ sites:
     url: https://www.mortgagestampabay.com
   - name: Move Facts
     url: https://movefacts.com
-  - name: Next Level Coaching
-    url: https://summitfundingcoaching.com
   - name: Orlando Integrity
     url: https://orlandointegritymortgage.com
   - name: PHL Correspondent
@@ -91,8 +83,6 @@ sites:
     url: https://www.tmfmortgage.com
   - name: Trease Group
     url: https://www.treasegroup.com
-  - name: Yankov Team
-    url: https://yankovmortgageteam.com
   
 status-website:
   # Add your custom domain name, or remove the `name` line if you don't have a domain
