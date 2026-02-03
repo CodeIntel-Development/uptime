@@ -314,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jointmf.com.ico",
     "slug": "join-tmf",
     "status": "down",
-    "uptime": "36.13%",
+    "uptime": "36.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -325,7 +325,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 150,
+      "2026-02-03": 746,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -1084,10 +1084,10 @@
     "url": "https://suehogrefe.com",
     "icon": "https://icons.duckduckgo.com/ip3/suehogrefe.com.ico",
     "slug": "sue-hogrefe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
@@ -1095,7 +1095,9 @@
     "timeWeek": 202,
     "timeMonth": 268,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-03": 1
+    }
   },
   {
     "name": "Summit Funding Corporate (no blog)",
