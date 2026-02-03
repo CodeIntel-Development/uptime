@@ -314,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jointmf.com.ico",
     "slug": "join-tmf",
     "status": "down",
-    "uptime": "36.11%",
+    "uptime": "36.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -325,7 +325,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 820,
+      "2026-02-03": 1175,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -933,12 +933,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.71%",
-    "uptimeMonth": "95.98%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "99.64%",
     "time": 325,
     "timeDay": 612,
     "timeWeek": 281,
-    "timeMonth": 436,
+    "timeMonth": 442,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2026-01-30": 1408,
@@ -1084,10 +1084,10 @@
     "url": "https://suehogrefe.com",
     "icon": "https://icons.duckduckgo.com/ip3/suehogrefe.com.ico",
     "slug": "sue-hogrefe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.89%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 281,
@@ -1096,7 +1096,7 @@
     "timeMonth": 266,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-02-03": 74
+      "2026-02-03": 75
     }
   },
   {
@@ -1151,7 +1151,7 @@
     "uptimeYear": "99.96%",
     "time": 371,
     "timeDay": 342,
-    "timeWeek": 320,
+    "timeWeek": 325,
     "timeMonth": 416,
     "timeYear": 406,
     "dailyMinutesDown": {
