@@ -325,7 +325,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-09": 154,
+      "2026-02-09": 344,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -777,18 +777,19 @@
     "url": "https://www.mortgagestampabay.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mortgagestampabay.com.ico",
     "slug": "mortgages-tampa-bay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 855,
-    "timeDay": 760,
-    "timeWeek": 578,
-    "timeMonth": 558,
-    "timeYear": 872,
+    "time": 854,
+    "timeDay": 508,
+    "timeWeek": 537,
+    "timeMonth": 549,
+    "timeYear": 871,
     "dailyMinutesDown": {
+      "2026-02-09": 1,
       "2025-12-05": 35,
       "2025-10-13": 7,
       "2025-09-22": 301,
@@ -850,7 +851,7 @@
       "2025-03-01": 13,
       "2025-02-27": 84,
       "2025-02-26": 68,
-      "2025-02-25": 24
+      "2025-02-25": 3
     }
   },
   {
