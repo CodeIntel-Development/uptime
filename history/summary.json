@@ -109,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crestamc.com.ico",
     "slug": "crest-amc",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -315,7 +315,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jointmf.com.ico",
     "slug": "join-tmf",
     "status": "down",
-    "uptime": "32.54%",
+    "uptime": "32.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 200,
+      "2026-05-05": 979,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -718,10 +718,10 @@
     "url": "https://jonathaneasleycl.com",
     "icon": "https://icons.duckduckgo.com/ip3/jonathaneasleycl.com.ico",
     "slug": "jonathan-easley",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
@@ -729,7 +729,9 @@
     "timeWeek": 255,
     "timeMonth": 238,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-05": 1
+    }
   },
   {
     "name": "Laura Meyers",
